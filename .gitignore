@@ -1,0 +1,2 @@
+# Ignore all output from conversions
+/output/*.pdf
