@@ -8,19 +8,19 @@ Brilliant Fantastic will establish and maintain an organization and process to p
 
 Brilliant Fantastic will use its best efforts to cure, as described below, reported and reproducible errors in the Software. Brilliant Fantastic utilizes the following four (4) severity levels to categorize reported problems:
 
-## SEVERITY 1 CRITICAL BUSINESS IMPACT
+### SEVERITY 1 CRITICAL BUSINESS IMPACT
 
 The impact of the reported deficiency is such that the customer is unable to either use the Software or reasonably continue work using the Software. Brilliant Fantastic will commence work on resolving the deficiency within one (1) hour of notification and will engage staff during business hours until an acceptable resolution is achieved.
 
-## SEVERITY 2 SIGNIFICANT BUSINESS IMPACT
+### SEVERITY 2 SIGNIFICANT BUSINESS IMPACT
 
 Important features of the Software are not working properly and there are no acceptable, alternative solutions. While other areas of the Software are not impacted, the reported deficiency has created a significant, negative impact on the Customer's productivity or service level. Brilliant Fantastic will commence work on resolving the deficiency within two (2) hours of notification and will engage staff during business hours until an acceptable resolution is achieved.
 
-## SEVERITY 3 SOME BUSINESS IMPACT
+### SEVERITY 3 SOME BUSINESS IMPACT
 
 Important features of the Software are unavailable, but an alternative solution is available or non-essential features of the Software are unavailable with no alternative solution. The customer impact, regardless of product usage, is minimal loss of operational functionality or implementation resources. Brilliant Fantastic will commence work on resolving the deficiency within one (1) business day of notification and will engage staff during business hours until an acceptable resolution is achieved.
 
-## SEVERITY 4 MINIMAL BUSINESS IMPACT
+### SEVERITY 4 MINIMAL BUSINESS IMPACT
 
 Customer submits a Software information request, software enhancement or documentation clarification which has no operational impact. The implementation or use of the Software by the Customer is continuing and there is no negative impact on productivity. Brilliant Fantastic will provide an initial response regarding the request within one (1) business week.
 
