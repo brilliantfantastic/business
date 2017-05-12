@@ -1,13 +1,19 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.5.1)
+      public_suffix (~> 2.0, >= 2.0.2)
+    launchy (2.4.3)
+      addressable (~> 2.3)
     pandoc-ruby (2.0.1)
+    public_suffix (2.0.5)
     rake (12.0.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  launchy
   pandoc-ruby
   rake
 
