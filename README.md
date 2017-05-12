@@ -38,7 +38,7 @@ bundle install
 * Run the rake task
 
 ```
-rake "convert[contracts/support_contract.md]"
+bundle exec rake "convert[contracts/support_contract.md]"
 ```
 
-The output is placed in the `/output` directory as the name of the document.
+The output is placed in the `/output` directory as the name of the document and the document will automatically open.
