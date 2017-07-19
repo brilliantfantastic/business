@@ -32,7 +32,7 @@ Brilliant Fantastic will undertake all reasonable efforts to provide technical a
 
 3. TERM
 
-This agreement shall start on the Effective Date stated below. This agreement shall run for a period of one (1) year from the Effective Date and shall automatically renew for consecutive one (1) year periods unless either party provides written notice of termination within sixty (60) days prior to the anniversary date of the Effective Date. Payment for each renewal term shall be due on the renewal date at the current rates for support of the Software. This agreement may be terminated for non-payment or material breach. Fees paid or due are non-refundable unless Brilliant Fantastic has materially breached this agreement and has failed to cure the breach after 30 days written notice.
+This agreement shall start on the Effective Date stated below. This agreement shall run for a period of one (1) year from the Effective Date and shall automatically renew for consecutive one (1) year periods unless either party provides written notice of termination within sixty (60) days prior to the anniversary date of the Effective Date. This agreement may be terminated for non-payment or material breach. Fees paid or due are non-refundable unless Brilliant Fantastic has materially breached this agreement and has failed to cure the breach after 30 days written notice.
 
 4. GENERAL
 
